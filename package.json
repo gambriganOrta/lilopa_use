@@ -1,0 +1,28 @@
+{
+  "name": "lilopa_use",
+  "version": "1.0.0",
+  "description": "A sample package demonstrating the use of lilopa for parsing and analyzing command-line options.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gambriganOrta/lilopa_use"
+  },
+  "keywords": [
+    "command-line",
+    "options",
+    "parser",
+    "analyzer"
+  ],
+  "author": "gambriganOrta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gambriganOrta/lilopa_use/issues"
+  },
+  "homepage": "https://github.com/gambriganOrta/lilopa_use",
+  "dependencies": {
+    "lilopa": "^1.0.0"
+  }
+}
